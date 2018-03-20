@@ -18,7 +18,9 @@ Blockchains are many things, they are technology, community, and many times they
 ## Immutability
 ETC is a Cryptocurrency where your accounts are never changed by others. This is a philosophy we share with Bitcoin, Litecoin, and others.
 
-Other blockchains take a different philosophy which they sometimes call "governance", and they allow the participants of the blockchain to vote with their economic power on the account balances of others. Imagine if all the members of your bank believed you broke a law, rather than going to the police the largest bank accounts voted to take your money away.
+Other blockchains take a different philosophy which they sometimes call "governance", and they allow the participants of the blockchain to vote with their economic power on the account balances of others. Imagine if all the members of your bank believed you broke a law, rather than going to the police the largest bank accounts voted to take your money away. 
+
+ETC will not allow this to happen.
 
 ## Technology
 ETC does highly efficient value transfers (more so than Bitcoin and its variants), it is focusing on IoT, and runs a mathematically verified EVM. What this all means is that ETC is great at what it sets out to do: be a highly efficient means of exchange that connects the world's devices.
@@ -29,3 +31,9 @@ IoT is under active development but will be available later this year.
 
 ## Community
 Many blockchain communities have a centralized leadership, they have a few people at the top who make the decisions for everyone else. ETC's community is purposely structured to avoid this, responsibility for different parts of the community, and development, are diffused between many parties. This prevents the biased "governance" that blockchains can easily become prone to.
+
+# Ethereum Classic & The Ethereum Foundation
+ETC was founded on a fundamental disagreement about the degree to which people are allowed to manage the financials of others. 
+The Ethereum Foundation believes that in certain cases it is okay for account balances to be changed by the community in a vigilante-style. 
+The Ethereum Classic community believes that it cannot engage in this type of vigilante justice and such issues are best handled within currently existing legal frameworks.
+[Kind of reiterating the Immutability section]
