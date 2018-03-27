@@ -17,7 +17,16 @@ To obtain ETC you can join one of the many exchanges linked in the [Exchange](/#
 To mine ETC you'll need to have the appropriate computer hardware and join one of the many [ETC mining pools](/#pools) available. If you've never mined before then make sure to read up on what's required first. You can find many guides and information in the mining pools section.
 
 # What is a Contract?
-[TODO]
+A Contract is a computer program that runs on the ETC network without anyone being able to interfere with it. This is advantageous because you can create a contract that everyone agrees to and then not have to worry about someone backing out.
+
+## A simple example
+Say every couple of weeks you and your coworkers go out for beers. Some members of the group start to become concerned that they're buying too many rounds while others are not. To solve this you create a pool of money, everyone throws in 10 ETC, and when the bar tab comes you pay with it.
+
+This works great, but then you have an issue, sometimes some people don't show up and you agree it's not fair to use the pool of funds when some people aren't around. However some people aren't very good at sticking to this rule, and they occassionally forget to not dip into the funds whenever Todd is traveling on business.
+
+So you create a contract on the ETC network that says each member of the group needs to tell the contract that it's okay to spend the funds. Then whenever you want to spend your ETC the contract enforces this rule without needing to rely on everyone following the rules; they're required to by the contract.
+
+The possibilities for contracts are endless, and this is but one small, simple example.
 
 # ETC History
 ETC has a long history relative to most blockchains and came about at the start of the second wave of blockchains.
