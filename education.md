@@ -49,7 +49,7 @@ Ultimately a contract was deployed on the Ethereum chain that created The DAO. P
 
 Shortly after deployment The DAO contained ~15% of all Ether in existence at the time (worth ~$150 million), the attacker took about 40% of this (or $60 million). A group of "whitehats" secured the rest, preventing the attacker from getting the whole bag.
 
-A vote was quickly held on carbonvote.com, over the course of a little over a week Ether holders were able to vote with their wallets on whether or not to undo the attack with a change to the network that went against its principles. 6% of the total economy voted, not even a small majority; less Ether than the amount affected by The DAO. 94% did not vote. 94% were not represented.
+A vote was quickly held on carbonvote.com, over the course of a little over a week Ether holders were able to vote with their wallets on whether or not to undo the attack with a change to the network that went against its principles. 6% of the total economy voted, not even a small majority; less Ether than the amount affected by The DAO. 94% did not vote. 94% were not represented. Ohh, and 1/4th of the pro-fork vote was a single rich voter.
 
 So Ethereum forked, they [created an irregular state change](https://github.com/ethereum/go-ethereum/commit/14bad7e212011337d14e40c9f975efd096ab7418) that undid the past and moved The DAO funds to a refund contract so people could reclaim their Ether.
 
@@ -61,7 +61,7 @@ Finally, the original Ethereum chain continued on, now under the name Ethereum C
 ### To the Future
 Detractors will tell you that ETC stopped here, that all we have are our principles and nothing else. As if principles are cheap. This is a misinformed lie at best and a deliberate lie at worst.
 
-ETC has some of the largest network activity of any blockchain, consistently higher than Bitcoin Cash, and neck-and-neck with Litecoin. We have 3 developer teams, all of whom are committed to the long term ETC vision. We are in the top-10 in programmer activity (measured by code commits). We have numerous sources of funding, and we continue to grow, day-by-day, commit-by-commit, line-by-line of code to create a bullet-proof network.
+ETC has some of the largest network activity of any blockchain, consistently higher than Bitcoin Cash, and neck-and-neck with Litecoin. We have 3 developer teams, all of whom are committed to the long term ETC vision. We are in the top-10 in programmer activity (measured by code commits). We have numerous sources of funding, and we continue to grow, day-by-day, commit-by-commit, line-by-line of code to create a bullet-proof network that anyone can use without fear of reprisal from a highly influential minority.
 
 
 
