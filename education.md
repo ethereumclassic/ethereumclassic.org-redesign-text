@@ -1,3 +1,6 @@
+# Why ETC?
+ETC has some of the largest network activity of any blockchain, consistently higher than Bitcoin Cash, and neck-and-neck with Litecoin. We have 3 developer teams, all of whom are committed to the long term ETC vision. We are in the top-10 in programmer activity (measured by code commits). We have numerous sources of funding, and we continue to grow, day-by-day, commit-by-commit, line-by-line of code to create a bullet-proof network that anyone can use without fear of reprisal from a highly influential minority.
+
 # Using ETC (Beginner)
 ETC is one of the easiest chains to use, and if you're just getting started you can quickly start using ETC with Emerald Wallet.
 ## Emerald Wallet - Quick Start
@@ -67,11 +70,7 @@ After The DAO incident the original agreement for The DAO (which stated that the
 
 Finally, the original Ethereum chain continued on, now under the name Ethereum Classic. While Ethereum Foundation should have renamed their augmented chain to something like "New Ethereum" they refused to, and since they had the domain names, the subreddits, and most of the money, they got to "win" with their 6% vote.
 
-### To the Future
-Detractors will tell you that ETC stopped here, that all we have are our principles and nothing else. As if principles are cheap. This is a misinformed lie at best and a deliberate lie at worst.
-
-ETC has some of the largest network activity of any blockchain, consistently higher than Bitcoin Cash, and neck-and-neck with Litecoin. We have 3 developer teams, all of whom are committed to the long term ETC vision. We are in the top-10 in programmer activity (measured by code commits). We have numerous sources of funding, and we continue to grow, day-by-day, commit-by-commit, line-by-line of code to create a bullet-proof network that anyone can use without fear of reprisal from a highly influential minority.
-
+ETC continues moving forward.
 
 
 When you want to change the blockchain without the permission of account holders: https://github.com/ethereum/go-ethereum/blob/master/consensus/misc/dao.go#L82
