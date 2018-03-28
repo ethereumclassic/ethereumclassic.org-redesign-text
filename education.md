@@ -43,6 +43,8 @@ Ethereum Classic belongs to the second wave of coins.
 
 Ethereum Classic is the Ethereum blockchain, much like Coca Cola Classic is the original and better Coke, we are the original and better Ethereum. Where-as New Coke (or New Ethereum) is a compromise that ruined a lot of what made Ethereum great.
 
+To truly understand ETC and its history our [decentralist manifesto](history/2016-07-11-manifesto.md), [declaration of independence](history/ETC_Declaration_of_Independence.pdf), and [early history](history/Ethereum_Classic_-_The_New_Original_Innovator.pdf) are required reading.
+
 ## A History Lesson
 Ethereum launched on July 30th 2015. At this time there was only one Ethereum with the goal of being a decentralized, immutable, blockchain-powered machine.
 

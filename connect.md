@@ -7,7 +7,9 @@ Forum - https://forum.ethereumclassic.org/
 @ClassicIsComing - https://twitter.com/classiciscoming
 @ETCCooperative - https://twitter.com/ETCCooperative
 
-Github - https://github.com/ethereumproject
+Ethereum Project - https://github.com/ethereumproject
+ETCDEV Team - https://github.com/ETCDEVTeam/
+Ethereum Commonwealth - https://github.com/EthereumCommonwealth
 
 ETH Classic (English) - http://telegram.me/ethclassic
 ETC Chat (English) - http://t.me/etcchat

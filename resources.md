@@ -1,7 +1,9 @@
 # Guides / FAQ / Info
-ETC FAQ - https://github.com/ethereumclassic/faq
+ETC FAQ - https://github.com/ethereumclassic/faq - Probably exclude
 
-ETC Guide - https://ethereum-classic-guide.readthedocs.io/en/latest/
+Guides - https://forum.ethereumclassic.org/c/help-me/guides - Do we want to copy these over to the main site?
+
+ETC Guide - https://ethereum-classic-guide.readthedocs.io/en/latest/ - Need to update or rewrite, very outdated
 
 ETC Today - http://etc.today/
 
@@ -22,25 +24,22 @@ Declaration of Independence - https://ethereumclassic.github.io/assets/ETC_Decla
 Decentralist Manifesto - https://ethereumclassic.github.io/blog/2016-07-11-manifesto/
 
 # Wallets
-Desktop:
+## Desktop
 Emerald Wallet (Windows, Linux, Mac; Beta) - https://github.com/ethereumproject/emerald-wallet/releases
 
+## Web
 CEW Web Wallet - https://ethereumproject.github.io/etherwallet/
 
 MEW Web Wallet - https://myetherwallet.com
 
 MyCrypto.com
 
-
-
-Hardware:
+## Hardware
 Ledger Hardware Wallet - https://www.ledgerwallet.com/products/12-ledger-nano-s
 
 Trezor Hardware Wallet - https://trezor.io
 
-
-
-Mobile:
+## Mobile
 Guarda Wallet (Android, iOS, Web) - https://guarda.co/wallet/etc
 
 Trust Wallet (Android, iOS) - https://trustwalletapp.com
@@ -51,6 +50,8 @@ JAXX (Windows, Linux, Mac, Android, iOS) - https://jaxx.io/
 Geth - https://github.com/ethereumproject/go-ethereum/releases
 
 Parity - https://github.com/ethcore/parity/releases
+
+Mantis - https://github.com/input-output-hk/mantis/releases
 
 Network Status - http://etcstats.net - TODO: Replace with something else, site is nearly dead
 
