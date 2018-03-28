@@ -1,5 +1,5 @@
 # Why ETC?
-ETC has some of the largest network activity of any blockchain, consistently higher than Bitcoin Cash, and neck-and-neck with Litecoin. We have 3 developer teams, all of whom are committed to the long term ETC vision. We are in the top-10 in programmer activity (measured by code commits). We have numerous sources of funding, and we continue to grow, day-by-day, commit-by-commit, line-by-line of code to create a bullet-proof network that anyone can use without fear of reprisal from a highly influential minority.
+ETC has some of the largest network activity of any blockchain, consistently higher than Bitcoin Cash, and neck-and-neck with Litecoin. We have multiple developer teams, all of whom are committed to the long term ETC vision. We are in the top-10 in programmer activity (measured by code commits). We have numerous sources of funding, and we continue to grow, day-by-day, commit-by-commit, line-by-line of code to create a bullet-proof network that anyone can use without fear of reprisal from a highly influential minority.
 
 # Using ETC (Beginner)
 ETC is one of the easiest chains to use, and if you're just getting started you can quickly start using ETC with Emerald Wallet.
@@ -14,10 +14,10 @@ That's it!
 You have two options to get ETC, one is to buy it on an exchange, the other is to mine it with computer hardware.
 
 ## Exchanges
-To obtain ETC you can join one of the many exchanges linked in the [Exchange](/#exchange) section.
+To purchase ETC with cash or other Cryptocurrencies you can join one of the many exchanges linked in the [Exchange](/#exchange) section.
 
 ## Mining
-To mine ETC you'll need to have the appropriate computer hardware and join one of the many [ETC mining pools](/#pools) available. If you've never mined before then make sure to read up on what's required first. You can find many guides and information in the mining pools section.
+To mine ETC you'll need to have the appropriate computer hardware and join one of the many [ETC mining pools](/#pools) available. If you've never mined before then make sure to read up on what's required first. You can find more information at the websites of the linked mining pools.
 
 # What is a Contract?
 A Contract is a computer program that runs on the ETC network without anyone being able to interfere with it. This is advantageous because you can create a contract that everyone agrees to and then not have to worry about someone backing out.
@@ -29,7 +29,7 @@ This works great, but then you have an issue, sometimes some people don't show u
 
 So you create a contract on the ETC network that says each member of the group needs to tell the contract that it's okay to spend the funds. Then whenever you want to spend your ETC the contract enforces this rule without needing to rely on everyone following the rules; they're required to by the contract.
 
-The possibilities for contracts are endless, and this is but one small, simple example.
+The possibilities for such contracts are endless, with applicability across industries. This is but one small, illustrative example.
 
 # ETC History
 ETC has a long history relative to most blockchains and came about at the start of the second wave of blockchains.
