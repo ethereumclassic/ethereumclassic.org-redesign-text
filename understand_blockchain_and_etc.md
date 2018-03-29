@@ -5,13 +5,13 @@ Put simply, blockchains provide a way to keep track of digital assets (money, th
 Ethereum Classic (ETC) is a smarter blockchain, a network, a community, and a cryptocurrency that takes digital assets further. In addition to allowing people to send value to each other, ETC allows people to create complex contracts that operate autonomously and cannot be modified or censored. This can be a difficult concept to grasp for those new to the blockchain space. For now, imagine Bitcoin as a landline phone—it does one thing very well. From this perspective ETC is like a smartphone or the Internet; it can do everything Bitcoin can and much more.
 
 ## An analogy
-Imagine Bitcoin as a landline phone, it is a revolutionary idea that connected people across the world in ways no one could have imagined.
+Imagine Bitcoin as a landline phone, it was a revolutionary idea that connected people across the world in ways no one could have imagined.
 
-From there those same lines that carried phone signals were adapted to carry digital signals and birthed the Internet that connected people in even more advanced and meaningful ways.
+From there those same lines that carried phone signals were adapted to carry digital signals and birthed the Internet that connected people in even more advanced ways.
 
-In this way Bitcoin is the first landline phone and is the start of a revolution that connected people in brand new ways.
+In this way Bitcoin is the revolutionary idea that connected people in brand new ways.
 
-ETC is like the Internet, it takes the idea of blockchains many leaps forward into the future, enabling them to do much more than simply send money.
+ETC is the more advanced connection, it takes the blockchain idea into the future, enabling us to do much more than simply send money.
 
 ## More than just a blockchain
 If the Internet was simply a bunch of interconnected computers, and didn't have any users or people creating websites, it would be largely useless. In much the same way a blockchain needs users and creators. ETC has both and they're working on real problems.
