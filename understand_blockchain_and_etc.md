@@ -1,10 +1,23 @@
 # What is a blockchain?
-Put simply, blockchains provide a way to keep track of digitized value without the need for intermediaries, such as banks and other financial institutions.
+Put simply, blockchains provide a way to keep track of digital assets (money, things) without the need for intermediaries, such as banks and other financial institutions.
 
 # What is Ethereum Classic?
-Ethereum Classic (ETC) is a blockchain, a network, a community, and a cryptocurrency that takes digitized value further. In addition to allowing people to send value to each other, ETC allows people to create complex contracts that operate autonomously and cannot be modified or censored. This can be a difficult concept to grasp for those new to the blockchain space. For now, imagine Bitcoin as a landline phone—it does one thing very well. From this perspective, ETC is like a smartphone it can do everything BTC can, but it is also capable of much more.
+Ethereum Classic (ETC) is a blockchain, a network, a community, and a cryptocurrency that takes digital assets further. In addition to allowing people to send value to each other, ETC allows people to create complex contracts that operate autonomously and cannot be modified or censored. This can be a difficult concept to grasp for those new to the blockchain space. For now, imagine Bitcoin as a landline phone—it does one thing very well. From this perspective ETC is like a smartphone or the Internet; it can do everything Bitcoin can and much more.
 
-ETC is also:
+## An analogy
+
+Imagine Bitcoin as a landline phone, it is a revolutionary idea that connected people across the world in ways no one could have imagined.
+
+From there those same lines that carried phone signals were adapted to carry digital signals and birthed the Internet that connected people in even more advanced and meaningful ways.
+
+In this way Bitcoin is the first landline phone and is the start of a revolution that connected people in brand new ways.
+
+ETC is like the Internet, it takes the idea of blockchains many leaps forward into the future, enabling them to do much more than simply send money.
+
+## More than just a blockchain
+If the Internet was simply a bunch of interconnected computers, and didn't have any users or people creating websites, it would be largely useless. In much the same way a blockchain needs users and creators. ETC has both and they're working on real problems.
+
+Beyond a blockchain, we are:
 * A fair and open community
 * A blockchain with a long history of operation
 * A blockchain on which all transactions are immutable, or permanent; if someone sends you value on the ETC blockchain, it is yours forever
@@ -14,6 +27,8 @@ ETC is also:
 
 # Why ETC?
 Immutability. Technology. Community.
+
+The short answer is that blockchains only work as long as everyone agrees to honor them. They are essentially rules to which everyone needs to agree, if they don't then they cannot participate.
 
 ## Immutability
 ETC "accounts" cannot be modified by others. This feature is a philosophy we share with Bitcoin, Litecoin, and other cryptocurrencies.
