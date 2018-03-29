@@ -14,7 +14,7 @@ In this way Bitcoin is the revolutionary idea that connected people in brand new
 ETC is the more advanced connection, it takes the blockchain idea into the future, enabling us to do much more than simply send money.
 
 ## More than just a blockchain
-If the Internet was simply a bunch of interconnected computers, and didn't have any users or people creating websites, it would be largely useless. In much the same way a blockchain needs users and creators. ETC has both and they're working on real problems.
+If the Internet was simply a bunch of interconnected computers, and didn't have any users or people creators making websites, it would be largely useless. In much the same way a blockchain needs users and creators. ETC has both and we're working on solving real world problems of interconnecting people and their devices.
 
 Beyond a blockchain, we are:
 * A fair and open community
@@ -27,9 +27,9 @@ Beyond a blockchain, we are:
 # Why ETC?
 Immutability. Technology. Community.
 
-The short answer is that blockchains only work as long as everyone agrees to honor them. They are essentially rules to which everyone needs to agree, if they don't then they cannot participate, or they split into other blockchains. 
+The short answer is that blockchains only work as long as everyone agrees to honor them. They are essentially rules to which everyone needs to agree, if they don't then they cannot participate, or they split into other blockchains. Splits are bad for blockchains, they make working and connecting with others difficult.
 
-ETC takes a conservative approach here, and this conservatism avoids splits and protects your money; much like Bitcoin.
+ETC takes a conservative approach to changes here, and this conservatism avoids splits and protects your money; much like Bitcoin.
 
 ETC is new and reliable technology. It's the longest running smart blockchain in existence.
 
@@ -48,4 +48,4 @@ IoT features are under active development and will be available later this year.
 [NEEDS MORE ABOUT IoT]
 
 ## Community
-Many blockchain communities have centralized leadership, meaning a few people at the top make the decisions for everyone else. ETC's community is purposely structured to avoid this. Responsibility for development and for other parts of the community are distributed between many parties. This prevents the biased form of "governance" that other blockchains are susceptible to.
+Many blockchain communities have centralized leadership, meaning a few people at the top make the decisions for everyone else. ETC's community is purposely structured to avoid this. Responsibility for development and discussion are distributed between many parties. This prevents the biased form of "governance" that other blockchains are susceptible to.
