@@ -1,0 +1,3 @@
+[submodule "etc-common-guides"]
+	path = etc-common-guides
+	url = https://github.com/ethereumproject/etc-common-guides.git
