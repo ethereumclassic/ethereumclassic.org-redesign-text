@@ -1,6 +1,3 @@
-# Why ETC?
-ETC has some of the largest network activity of any blockchain, consistently higher than Bitcoin Cash, and neck-and-neck with Litecoin. We have multiple developer teams, all of whom are committed to the long term ETC vision. We are in the top-10 in programmer activity (measured by code commits). We have numerous sources of funding, and we continue to grow, day-by-day, commit-by-commit, line-by-line of code to create a bullet-proof network that anyone can use without fear of reprisal from a highly influential minority.
-
 # Using ETC (Beginner)
 ETC is one of the easiest chains to use, and if you're just getting started you can quickly start using ETC with Emerald Wallet.
 ## Emerald Wallet - Quick Start

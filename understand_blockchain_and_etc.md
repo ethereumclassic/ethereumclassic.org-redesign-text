@@ -25,6 +25,11 @@ Beyond a blockchain, we are:
 [NEEDS MORE ABOUT IoT]
 
 # Why ETC?
+
+## Performance
+ETC has some of the largest network activity of any blockchain, consistently higher than Bitcoin Cash, and neck-and-neck with Litecoin. We have multiple developer teams, all of whom are committed to the long term ETC vision. We are in the top-10 in programmer activity (measured by code commits). We have numerous sources of funding, and we continue to grow, day-by-day, commit-by-commit, line-by-line of code to create a bullet-proof network that anyone can use without fear of reprisal from a highly influential minority.
+
+## Principles
 Immutability. Technology. Community.
 
 The short answer is that blockchains only work as long as everyone agrees to honor them. They are essentially rules to which everyone needs to agree, if they don't then they cannot participate, or they split into other blockchains. Splits are bad for blockchains, they make working and connecting with others difficult.
