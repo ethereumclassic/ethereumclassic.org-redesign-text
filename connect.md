@@ -2,6 +2,7 @@
 Reddit - https://reddit.com/r/ethereumclassic
 Discord - https://discord.gg/HW4GckH
 Forum - https://forum.ethereumclassic.org/
+Podcast - https://www.youtube.com/watch?v=4KqF1zG98tM&list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5
 
 @eth_classic - https://twitter.com/eth_classic
 @ClassicIsComing - https://twitter.com/classiciscoming
