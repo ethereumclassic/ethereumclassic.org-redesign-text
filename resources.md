@@ -58,7 +58,7 @@ Network Status - http://etcstats.net - TODO: Replace with something else, site i
 # Mining Pools / Mine ETC
 Epool - https://epool.io
 
-2miners - https://etc.2miners.com
+2Miners - https://2miners.com
 
 91 Pool - http://91pool.com
 
