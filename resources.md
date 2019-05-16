@@ -56,6 +56,9 @@ Mantis - https://github.com/input-output-hk/mantis/releases
 Network Status - http://etcstats.net - TODO: Replace with something else, site is nearly dead
 
 # Mining Pools / Mine ETC
+
+ETC Mining Profitability calculator - https://2cryptocalc.com/calculator/ETC
+
 Epool - https://epool.io
 
 2Miners - https://2miners.com/etc-mining-pool
